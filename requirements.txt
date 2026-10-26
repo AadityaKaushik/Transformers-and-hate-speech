@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+scipy
+matplotlib
+pyarrow
+tabulate
+google-genai
+# Fine-tuning runs on Colab (2_finetune_colab.ipynb), which already has torch + transformers.
